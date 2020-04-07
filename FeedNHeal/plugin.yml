@@ -1,0 +1,20 @@
+name: FeedNHeal
+version: 1.0.0
+description: Simple plugin for /feed and /heal command.
+author: TheRedCat
+website: http://taigamc.pl/theredcat.html
+main: me.rudykot.feednheal.Main
+commands:
+  feed:
+    description: Feeds player.
+  heal:
+    description: Heals player.
+permissions:
+  feednheal.feed:
+    description: Allows feed yourself.
+  feednheal.feed.others:
+    description: Allows feed other players.
+  feednheal.heal:
+    description: Allows heal yourself.
+  feednheal.heal.others:
+    description: Allows heal other players.
