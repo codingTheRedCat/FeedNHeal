@@ -1,0 +1,8 @@
+messages:
+ no-permission: "&cYou don't have permission for that!"
+ only-for-players: "&cThis command is only for players!"
+ fed-yourself: "&aYou have been fed."
+ fed-other: "&aFed %player%."
+ healed-yourself: "&aYou have been healed."
+ healed-other: "&aHealed %player%."
+ no-player-online: "&cThis player isn't online"
