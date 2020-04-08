@@ -1,0 +1,5 @@
+messages:
+ no-permission: "&cYou need rank for this!"
+ only-for-players: "&cFor players only!"
+ fed-yourself: "&aGived you some food."
+ healed-yourself: "&aYou are more healthy."
